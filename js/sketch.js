@@ -14,6 +14,7 @@ function draw() {
     background(0);
 
     fill(0);
+    stroke(1);
     stroke(255);
 
     const step = max(20, interval);
